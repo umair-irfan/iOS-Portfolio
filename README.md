@@ -33,3 +33,27 @@ iOS Developer:  As a part of UI/UX Team I collaborated with the team to improvis
 <p align="center">
 <img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w%20(5).png" width="150"  title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w%20(4).png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w%20(2).png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w%20(7).webp" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w%20(3).png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w%20(1).png" width="150" title="iiOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Yap/460x0w%20(6).webp" width="150" title="iOS version">
 </p>
+
+# [Vowpay - Money Transfe‪r‬](https://apps.apple.com/us/app/id1095042185#?platform=iphone)
+Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users.
+
+### Technology Stack ###
+* Swift 5
+* RxSwift
+* Programatic UI
+* Fastlane
+* Travis CI
+* 3D secure payments
+
+### App Architecture  ###
+* MVVM-C
+* Framework based Modular approach
+* Repositories 
+* Dark mode support
+
+### My Role ###
+iOS Developer: As a part of product rewamp I communicated with Vowpay Product Owner to rewamp the application from scratch. Understanding requirements and business use case to impliment extensive features like 3D secure payments. Planing weekly sprints, managing and scheduling build release with release notes for internal and business Testing.
+
+<p align="center">
+<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/01.jpg" width="150"  title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/02.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/03.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/04.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/05.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+</p>
