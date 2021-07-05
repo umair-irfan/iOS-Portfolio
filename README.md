@@ -57,3 +57,23 @@ iOS Developer: As a part of product rewamp I communicated with Vowpay Product Ow
 <p align="center">
 <img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/01.jpg" width="150"  title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/02.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/03.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/04.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/Vowpay/05.jpg" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
 </p>
+
+# [FitTogether - Social  Fitness](https://apps.apple.com/us/app/fittogether-social-fitness/id1446674035?platform=iphone)
+FitTogether is a social networking app for fitness enthusiasts. FitTogether has three types of users, Social users, Gym Managers and Trainers. FitTogether is a fully functional fitness social network with the added benefit of having a tool set built in for gym manager and fitness trainers to better connect with their members and clients.
+
+### Technology Stack ###
+* Swift 5
+* Alamofire
+* Codable
+* Fitbit sync
+* Storyboard
+* Xib
+
+### App Architecture  ###
+* MVC
+* Reuseable component approach
+* Protocol Delegates 
+* iPad Support
+
+### My Role ###
+iOS Developer: I moved the legacy codebase from Objectice-C to Swift 5 using Alamofire and codable model.
