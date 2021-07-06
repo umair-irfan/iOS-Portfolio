@@ -76,4 +76,8 @@ FitTogether is a social networking app for fitness enthusiasts. FitTogether has 
 * iPad Support
 
 ### My Role ###
-iOS Developer: I moved the legacy codebase from Objectice-C to Swift 5 using Alamofire and codable model.
+iOS Developer: I moved the legacy codebase from Objectice-C to Swift 5 using Alamofire and codable model. Managed the build release for beta testers aswell as internal testers. Coordinated with backend team to imporvise the Api response and identified security loop holes. Debuging and refactoring the code to improve code quality.
+
+<p align="center">
+<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/01.png" width="150"  title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/02.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/03.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/04.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/05.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+</p>
