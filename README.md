@@ -80,4 +80,6 @@ iOS Developer: I moved the legacy codebase from Objectice-C to Swift 5 using Ala
 
 <p align="center">
 <img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/01.png" width="150"  title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/02.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/03.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/04.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/05.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/06.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+src="https://github.com/umair-irfan/iOS-Portfolio/blob/main/images/FitTogether/07.png" width="150" title="iOS version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
 </p>
