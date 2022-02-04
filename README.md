@@ -1,6 +1,6 @@
 # iOS-Portfolio
 Hallo!! Welcome to my portfolio 👋 
-I am a passionate programmer loves to write clean code with Swift Programming language. I have overall 3 years of working experience in Mobile application development. I started my carrer as Android application developer in early 2018 and moved to Apple Ecosystem in late 2018.
+I am a passionate programmer loves to write clean code with Swift Programming language. I have 5 years of working experience in Mobile application development.
 
 I have a hands-on experience of working with MVC, VIP and MVVM-C (Reactive Rxswift) as well as Procedural. I have a deep understanding of Desgin Patterns including Creational, Structural and Behavioral. Some of the Design Principles I have implimented in my portfolio projects are mentioned below
 * SOLID
